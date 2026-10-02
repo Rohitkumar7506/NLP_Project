@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+nltk
+numpy
+pandas
+matplotlib
+faiss-cpu
+sentence-transformers
+scikit-learn
